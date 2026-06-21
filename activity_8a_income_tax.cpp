@@ -16,7 +16,7 @@ int main(){
     //cout << "the amount of tax owed is ";
 
     // check if salary is above 70000
-    if(salary > 700.00){
+    if(salary > 70000.00){
         tax = salary * 0.40;
     }
     else
