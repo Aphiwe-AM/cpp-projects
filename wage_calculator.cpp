@@ -10,7 +10,7 @@ int main() {
 
     // get inputs from the user
     cout << "WAGE CALCULATION" << endl;
-    cout << "====================" << endl;
+    cout << "===========================" << endl;
     cout << "Enter your starting time: ";
     cin >> starting_time;
 
@@ -28,6 +28,6 @@ int main() {
         wage = (finishing_time - starting_time) * EVENING_RATE;
     }
 
-    cout << "The payment is " << wage << endl;
+    cout << "The payment is R" << wage << endl;
     
 }
