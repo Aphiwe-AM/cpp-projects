@@ -22,7 +22,9 @@ int main(){
     //get number of years
     cout << "Enter amount of years: ";
     cin >> years;
-
+    //set format
+    cout.setf(ios::fixed);
+    cout.precision(2);
     //loop through the years while adding interest rate
     for(int i = 1; i <= years; i++){
 
