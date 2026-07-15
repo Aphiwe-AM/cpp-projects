@@ -31,5 +31,5 @@ int main(){
         cout << "The total amount of compound interest after " << i << " years at a interest rate of " << intRate << " is: " << amount << endl;
         
     }
-
+return 0;
 }

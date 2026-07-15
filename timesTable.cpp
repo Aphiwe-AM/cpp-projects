@@ -16,4 +16,5 @@ int main(){
         answer = number * i;
         cout << number << "x" << i << " = " << answer << endl;
     }
+    return 0;
 }

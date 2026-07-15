@@ -19,6 +19,6 @@ int main(){
     }while(value != 0);
 
     cout << "The account balance is: " << balance;
-
+    return 0;
    
 }
