@@ -7,7 +7,7 @@ int main(){
     string type_vertebrate;
 
     //ask user questions to determine type of in vertebrates
-    cout << "Is the animal warm-blooded or not (y/n)? ";
+    cout << "Is the animal warm-blooded (y/n)? ";
     cin >> answer;
     //mammals and birds 
     if(answer == 'y'){
