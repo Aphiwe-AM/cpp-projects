@@ -1,0 +1,11 @@
+#include <iostream>
+using namespace std;
+
+/*Write a program that calculates and displays the sums of all the odd numbers up to a number n. The user
+must supply a value for n, and the program must display all the partial sums up to n (including n if n is
+odd).*/
+
+int main(){
+// variables used 
+
+}
