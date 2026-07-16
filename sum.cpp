@@ -30,4 +30,6 @@ int main(){
     }
      
         cout << "The total sum of odd numbers is: "<< oddSum;
+        
+        return 0;
 }
