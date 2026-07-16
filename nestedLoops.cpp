@@ -36,5 +36,6 @@ int main(){
             cout << "Please enter end (x): ";
             cin >> end;
         }
+        return 0
     
 }
