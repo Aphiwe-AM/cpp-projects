@@ -27,7 +27,7 @@ int main(){
     if(isValid(value1, value2, value3) == true){
         cout << "This is a valid triangle.";
     }else{
-        cout << "This is not a valid trianglr :/.";
+        cout << "This is not a valid triangle:/.";
     }
     return 0;
 }
