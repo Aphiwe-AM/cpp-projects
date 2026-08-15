@@ -1,0 +1,40 @@
+==============================================================
+                 CARNIVAL CITY MOVIE REPORT                  
+==============================================================
+SURNAME		NAME		MOVIE TYPE	REF NUMBER
+--------------------------------------------------------------
+Zulu		Sibusiso		Animation		ed21HJ118
+Zulu		Lerato		Animation		ed37AC227
+Venter		Wacko		Action		ed4QY78
+Smith		Kabelo		Horror		ed55IK445
+Sithole		Zanele		Animation		ed00TV990
+Sally		White		Action		ed77PX09
+Radebe		Sibusiso		Action		ed55SU445
+Radebe		Sibusiso		Action		ed73GI663
+Pillay		Kabelo		Horror		ed37UW227
+Pillay		Zanele		Animation		ed82FH772
+Pillay		Rohan		Action		ed37QS227
+Ndlela		Nonhlanhla		Action		ed19CE009
+Ndlela		Bongani		Animation		ed73QS663
+Mthemu		Thando		Action		ed67JJ67
+Mthembu		Lerato		Animation		ed19MO009
+Motsepe		Nomsa		Horror		ed91KM881
+Motsepe		Thabo		Animation		ed00DF990
+Motsepe		Zanele		Animation		ed64RT554
+Mokoena		Themba		Action		ed00NP990
+Mkhabela		Kabelo		Horror		ed73WY663
+Mabena		Thandi		Action		ed10IK009
+Mabena		Thabo		Animation		ed82PR772
+Dube		Sibusiso		Action		ed91UW881
+Dlamini		Zinhle		Animation		ed54EG445
+Black		Jason		Horror		ed98AC881
+
+==============================================================
+                   SUMMARY & TOTAL AMOUNTS                    
+==============================================================
+Total Amount for Action Movies:    R 1600
+Total Amount for Horror Movies:    R 660
+Total Amount for Animation Movies: R 1044
+--------------------------------------------------------------
+TOTAL AMOUNT ALL RESERVATIONS:     R 3304
+==============================================================
