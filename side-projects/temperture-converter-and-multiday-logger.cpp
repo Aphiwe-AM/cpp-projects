@@ -35,7 +35,7 @@ int main(){
         std::cin >> temp;
 
          if(temp_type == 'f'){
-             temp_converted = (temp * 9/5) + 32;
+             temp_converted = (temp * 1.8) + 32;
              if(temp <= freezing_f){
                 std::cout <<"Wear a jacket to day it's freezing." << temp << ".F " << temp_converted << ".C" << std::endl;
              }
@@ -50,7 +50,7 @@ int main(){
          }
          else{
 
-            temp_converted = (temp - 32) * 5/9;
+            temp_converted = (temp - 32) * 1.8;
              if(temp <= freezing_c){
                 std::cout <<"Wear a jacket to day it's freezing: " << temp_converted << ".F " << temp << ".C" << std::endl;
              }
