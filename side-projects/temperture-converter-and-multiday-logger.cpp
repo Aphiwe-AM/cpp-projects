@@ -13,6 +13,17 @@ converts them between Celsius and Fahrenheit, and flags extreme weather warnings
 #include <string>
 
 int main(){
+    //variables used
+    int days_recorded;
+
+     
 	std::cout << "How many days  do you want to record: ";
+    std::cin >> days_recorded;
+
+    for(int day = 0; day < days_recorded; day++){
+        std::cout << day;
+    }
+
+
 	
 }
