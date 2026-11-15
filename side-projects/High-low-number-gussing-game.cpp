@@ -27,7 +27,7 @@ int main(){
         count++;
     }while(guess != hidden_num);
 
-    std::cout << "Welldone you guessed correctly! "<< std::endl << "Number of tries: "<< count;
+    std::cout << "Well done you guessed correctly! "<< std::endl << "Number of tries: "<< count;
 
     
 }
